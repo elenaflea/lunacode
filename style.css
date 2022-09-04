@@ -496,12 +496,12 @@ nav {
     background-position: center;
 }
 #btnRu:hover, #btnEn:hover, #btnFr:hover{
-    transform: scale3d(1.1,1.1,1.1);
+    transform: scale3d(1.05, 1.05, 1.05);
     transition: 0.3s ease-in-out;
     opacity: 1;
 }
 #btnRu:focus, #btnEn:focus, #btnFr:focus{
-    transform: scale3d(1.1,1.1,1.1);
+    transform: scale3d(1.05, 1.05, 1.05);
     transition: 0.3s ease-in-out;
     opacity: 1;
 }
