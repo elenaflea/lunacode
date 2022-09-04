@@ -487,6 +487,7 @@ nav {
     color: rgb(51, 54, 54);
     opacity: 0.4;
     text-align: center;
+    align-items: center;
 }
 #btnRu{
     background-image: url(images/ru.svg);
