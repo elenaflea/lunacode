@@ -232,4 +232,4 @@ fermer2.addEventListener("click", ()=>{
     hiddenform2.style.display = "none";
 });
 
-document.querySelector("#year").innerHTML  = new Date().getFullYear();
+//document.querySelector("#year").innerHTML  = new Date().getFullYear();
