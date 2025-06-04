@@ -233,3 +233,4 @@ fermer2.addEventListener("click", ()=>{
 });
 
 
+document.querySelector("#year").innerHTML  = new Date().getFullYear();

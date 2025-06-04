@@ -484,9 +484,11 @@ nav {
     text-transform: uppercase;
     border-radius: 50%;
     border: 1px solid white;
-    color: rgb(51, 54, 54);
+    color: rgb(17, 19, 19);
     opacity: 0.4;
     text-align: center;
+    align-items: center;
+    padding: 0;
 }
 #btnRu{
     background-image: url(images/ru.svg);
@@ -494,12 +496,12 @@ nav {
     background-position: center;
 }
 #btnRu:hover, #btnEn:hover, #btnFr:hover{
-    transform: scale3d(1.1,1.1,1.1);
+    transform: scale3d(1.05, 1.05, 1.05);
     transition: 0.3s ease-in-out;
     opacity: 1;
 }
 #btnRu:focus, #btnEn:focus, #btnFr:focus{
-    transform: scale3d(1.1,1.1,1.1);
+    transform: scale3d(1.05, 1.05, 1.05);
     transition: 0.3s ease-in-out;
     opacity: 1;
 }
