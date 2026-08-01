@@ -218,8 +218,8 @@ btnRu.addEventListener("click", () => {
 
     un.textContent= "КАЛЬКУЛЯТОР";
     unUn.textContent= "НДС";
-    deux.textContent= "Лист";
-    deuxDeux.textContent= "покупок";
+    deux.textContent= "Симпсоны";
+    deuxDeux.textContent= "персонажи";
     trois.textContent= "отсчёт";
     troisTrois.textContent= "затмение";
     quatre.textContent= "метео";
@@ -258,7 +258,7 @@ btnRu.addEventListener("click", () => {
     vingtSixVingtSix.textContent= "для малыша";
 
     unPar.textContent= "простой и понятный";
-    deuxPar.textContent= "ничего не забыть";
+    deuxPar.textContent= "найти";
     troisPar.textContent= "12 августа 2026";
     quatrePar.textContent= "в реальном времени";
     cinqPar.textContent= "поможет смотивироваться";
@@ -414,8 +414,8 @@ btnEn.addEventListener("click", () => {
 
     un.textContent= "TAX";
     unUn.textContent= "CALCULATOR";
-    deux.textContent= "shopping";
-    deuxDeux.textContent= "list";
+    deux.textContent= "Simpsons";
+    deuxDeux.textContent= "characters";
     trois.textContent= "eclipse";
     troisTrois.textContent= "countdown";
     quatre.textContent= "meteo";
@@ -610,8 +610,8 @@ btnFr.addEventListener("click", () => {
 
     un.textContent= "CALCULATRICE";
     unUn.textContent= "TVA";
-    deux.textContent= "shopping";
-    deuxDeux.textContent= "list";
+    deux.textContent= "Simpsons";
+    deuxDeux.textContent= "personnage";
     trois.textContent= "countdown";
     troisTrois.textContent= "éclipse";
     quatre.textContent= "météo";
@@ -650,7 +650,7 @@ btnFr.addEventListener("click", () => {
     vingtSixVingtSix.textContent= "list";
 
     unPar.textContent= "Simple et efficace";
-    deuxPar.textContent= "Pour rien oublier";
+    deuxPar.textContent= "Trouver personnage";
     troisPar.textContent= "12 août 2026";
     quatrePar.textContent= "En temp réel";
     cinqPar.textContent= "Trouver la motivation";
